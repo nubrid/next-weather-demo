@@ -1,0 +1,5 @@
+http://localhost:3000/api/weather?q=408564+sg
+
+###
+
+https://api.openweathermap.org/data/2.5/forecast?lat=1.357107&lon=103.8194992&units=metric&appid=<your key here>
